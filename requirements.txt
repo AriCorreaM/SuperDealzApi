@@ -1,0 +1,4 @@
+Django~=2.1.2
+Psycopg2
+djangorestframework
+Pillow
